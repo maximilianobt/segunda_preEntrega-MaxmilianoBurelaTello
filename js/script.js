@@ -12,7 +12,7 @@ function calcular() {
         return;
     }
 
-    // Cálculos
+    // Operaciones
     let resultados = {
         id: historialCalculos.length + 1,
         suma: numero1 + numero2,
